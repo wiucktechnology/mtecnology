@@ -187,3 +187,6 @@ button  {
     display: flex;
     justify-content: center;
 }
+a:visited {
+    color: #ffffff;
+}
